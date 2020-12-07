@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InstagramSaya</string>
+    <string name="lbl_count_postingan">4</string>
+    <string name="lbl_postingan">Postingan</string>
+    <string name="lbl_count_pengikut">671</string>
+    <string name="lbl_pengikut">Pengikut</string>
+    <string name="lbl_count_mengikuti">552</string>
+    <string name="lbl_mengikuti">Mengikuti</string>
+    <string name="lbl_nama">Indah Putri Hartanti</string>
+    <string name="lbl_kategori">Blog Pribadi</string>
+    <string name="lbl_bio">Informatics Engineering</string>
+    <string name="lbl_bio1">Enjoyyy</string>
+    <string name="btn_ikuti">IKUTI</string>
+    <string name="btn_kirim_pesan">Kirim Pesan</string>
+</resources>
