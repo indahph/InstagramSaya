@@ -12,4 +12,23 @@
     <string name="lbl_bio1">Enjoyyy</string>
     <string name="btn_ikuti">IKUTI</string>
     <string name="btn_kirim_pesan">Kirim Pesan</string>
+
+    <string name="content_text">Honda Vario 150 eSP – “Ride The Perfection” merupakan skutik flagship AHM dengan desain dan fitur yang tercanggih di Indonesia. Motor ini sudah menggunakan mesin Honda terbaru berteknologi eSP dan berbagai fitur lainnya seperti Answer Back System, lampu depan LED, PGM-FI, Combi Brake System, ISS dan lainnya.
+                                </string>
+    <string name="content_price">Rp 25.000.000</string>
+    <string name="content_rangka">Rangka	Underbone
+Suspensi depan	Telescopik
+Suspensi belakang	Swing Arm dengan suspensi Tunggal
+Ukuran Ban depan	90/80 – 14M/C 43P Tubeless
+Ukuran Ban Belakang	100/80 – 14M/C 48P Tubeless
+Rem depan	Cakram Hidrolik, Piston Tunggal
+Rem belakang	Tromol
+Sistem Pengereman	Combi Brake System (CBS)</string>
+    <string name="content_kapasitas">Kapasitas tangki bahan bakar	5,5 liter bahan bakar
+Kapasitas Minyak Pelumas	0,8 liter pada penggantian periodik</string>
+    <string name="content_kelistrikan">Tipe Baterai atau Aki	MF 12V-5 Ah
+Sistem pengapian	Full transisterized
+Tipe Busi	NGK CPR9EA-9 / Denso U27EPR9
+Lampu Depan	LED 2.6 W x 2 (low), 5,2 W x 2 (high)</string>
+
 </resources>
